@@ -27,5 +27,5 @@ hobbies: ["Volleyball","Personal Blog","Swimming"]*
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif"/>
+  <img src="https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif"/>
 </p>

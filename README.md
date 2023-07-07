@@ -1,16 +1,31 @@
-### Hi there 👋
+```yaml
+*name: Muskan Yadav
+located_in: Noida,UP
+current_job: Aspiring Data Analyst
+education:
+[
+  "Self-Taught Data Scientist and Technical Blog Writer,
+   "Bachelor's in Computer Science and Engineering with Artificial 
+    Intelligence and Machine Learning
+]
 
-<!--
-**Muskan-Y/Muskan-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interests:
+  [
+    "Data Analysis",
+    "Data Mining",
+    "Machine Learning",
+    "Computer Vision",
+    "Deep Learning",
+    "Build Predictive Models",
+    "Dashboards"
+]
+curently_learning: ["SAS","Web Scraping","NLP"]
+2023 Goals: ["Create a healthcare website for rural India"]
+hobbies: ["Volleyball","Personal Blog","Swimming"]*
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif"/>
+</p>

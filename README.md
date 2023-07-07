@@ -6,7 +6,7 @@ education:
 [
   "Self-Taught Data Scientist and Technical Blog Writer,
    "Bachelor's in Computer Science and Engineering with Artificial 
-   Intelligence and Machine Learning"
+    Intelligence and Machine Learning"
 ]
 
 Interests:

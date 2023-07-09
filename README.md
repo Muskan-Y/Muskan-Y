@@ -1,5 +1,5 @@
 ```yaml
-*name: Muskan Yadav
+name: Muskan Yadav
 located_in: Noida,UP
 current_job: Aspiring Data Scientist
 education:

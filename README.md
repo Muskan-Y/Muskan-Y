@@ -12,16 +12,17 @@ education:
 Interests:
   [
     "Data Analysis",
+    "Business Analysis",
     "Data Mining",
     "Machine Learning",
     "Computer Vision",
     "Deep Learning",
     "Build Predictive Models",
-    "Dashboards"
+    "Tableau"
 ]
 curently_learning: ["SAS","Web Scraping","NLP"]
 2023 Goals: ["Create a healthcare website for rural India"]
-hobbies: ["Volleyball","Personal Blog","Swimming"]*
+hobbies: ["Volleyball","Personal Blog","Poetry"]*
 ```
 
 

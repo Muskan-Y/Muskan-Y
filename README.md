@@ -21,7 +21,7 @@ Interests:
     "Tableau"
 ]
 curently_learning: ["SAS","Web Scraping","NLP"]
-2023 Goals: ["Create a healthcare website for rural India"]
+2024 Goals: ["Create a healthcare website for rural India"]
 hobbies: ["Volleyball","Personal Blog","Poetry"]*
 ```
 

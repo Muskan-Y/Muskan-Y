@@ -1,10 +1,9 @@
 ```yaml
 name: Muskan Yadav
-located_in: Noida,UP
-current_job: Aspiring Data Scientist
+located_in: Noida
+current_job: Data Enthusiast
 education:
 [
-  "Self-Taught Data Scientist and Technical Blog Writer,
    "Bachelor's in Computer Science and Engineering with Artificial 
     Intelligence and Machine Learning"
 ]
@@ -12,16 +11,18 @@ education:
 Interests:
   [
     "Data Analysis",
-    "Business Analysis",
+    "Artificial Intelligence",
     "Data Mining",
     "Machine Learning",
     "Computer Vision",
     "Deep Learning",
+    "Natural Language Processing"
+    "Large Langauge Models"
     "Build Predictive Models",
     "Tableau"
+    "Technical Blog Writing"
 ]
-curently_learning: ["SAS","Web Scraping","NLP"]
-2024 Goals: ["Create a healthcare website for rural India"]
+currently_learning: ["SAS","Web Scraping","NLP"]
 hobbies: ["Volleyball","Personal Blog","Poetry"]*
 ```
 

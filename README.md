@@ -1,7 +1,7 @@
 ```yaml
 name: Muskan Yadav
 located_in: Noida
-current_job: Data Enthusiast
+current_job: Data Scientist
 education:
 [
    "Bachelor's in Computer Science and Engineering with Artificial 
@@ -14,6 +14,7 @@ Interests:
     "Artificial Intelligence",
     "Data Mining",
     "Machine Learning",
+    "GenAI",
     "Computer Vision",
     "Deep Learning",
     "Natural Language Processing"

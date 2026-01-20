@@ -23,7 +23,7 @@ Interests:
     "Tableau"
     "Technical Blog Writing"
 ]
-currently_learning: ["SAS","Web Scraping","NLP"]
+currently_learning: ["SAS","Cloud"]
 hobbies: ["Volleyball","Personal Blog","Poetry"]*
 ```
 
